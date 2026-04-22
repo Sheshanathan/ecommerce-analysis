@@ -87,7 +87,7 @@ ecommerce-sales-analysis/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/ecommerce-sales-analysis.git
+git clone https://github.com/Sheshanathan/ecommerce-analysis.git
 cd ecommerce-sales-analysis
 ```
 
